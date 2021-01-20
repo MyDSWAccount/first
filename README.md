@@ -1,2 +1,2 @@
 # first
-http://MyDSWAccount.github.io/first/
+http://MyDSWAccount.github.io/first
